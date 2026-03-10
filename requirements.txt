@@ -1,0 +1,16 @@
+accelerate==1.10.1
+bitsandbytes==0.47.0
+faiss-cpu==1.13.2
+langchain==0.3.28
+langchain-community==0.3.31
+langchain-core==0.3.83
+langchain-openai==0.3.35
+python-dotenv==1.2.2
+requests==2.32.5
+sentence-transformers==5.2.3
+streamlit==1.55.0
+torch==2.7.0+cu128
+torchvision==0.22.0+cu128
+torchaudio==2.7.0+cu128
+transformers==4.56.1
+tqdm==4.67.3

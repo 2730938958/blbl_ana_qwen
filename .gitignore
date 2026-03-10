@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.python-version
+.DS_Store
+
+# secrets
+.env
+
+# IDE
+.cursor/
+.vscode/
+
+# HF / transformers cache (optional)
+.cache/
+**/.cache/
+
+# OS
+Thumbs.db
